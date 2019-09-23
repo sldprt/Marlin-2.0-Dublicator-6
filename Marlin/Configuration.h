@@ -492,9 +492,9 @@
   //#define DEFAULT_Kd 440
 
   // Duplicator 6
-  #define DEFAULT_Kp 9.12
-  #define DEFAULT_Ki 0.41
-  #define DEFAULT_Kd 50.98
+  #define DEFAULT_Kp 15.35
+  #define DEFAULT_Ki 0.54
+  #define DEFAULT_Kd 109.06
 
 #endif // PIDTEMP
 
